@@ -1,0 +1,6 @@
+numpy~=1.19.4
+pickles
+pytesseract~=0.3.7
+matplotlib~=3.3.3
+scikit-learn~=0.24.0
+gym~=0.18.0
